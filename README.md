@@ -24,3 +24,7 @@ def ploshad(a, b, c):
 summa_progress(4, 100)
 
 ploshad(4, 5, 7)
+
+
+
+Остальные задания в файле inv1
