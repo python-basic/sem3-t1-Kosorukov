@@ -1,1 +1,8 @@
+def geron(a, b, c):
+    p = (a+b+c)/2
+    print ('Полупериметр =', p )
+    s = (p*(p-a)*(p-b)*(p-c))**0.5
+    return s
+    
+print (geron(1, 3, 4))
 
